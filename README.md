@@ -14,6 +14,6 @@
 ### 12) Basic Airthmetic Operations JS (11/Nov/2020)
 ### 13) Working with JSON's in JS (13/Nov/2020)
 ### 14) Working with JSON's in JS (16/Nov/2020)
-..* Read JSON Entities
-..* Read JSON Entities Multi Dimensional
-..* Fetch API URL
+Markup : * Read JSON Entities
+         * Read JSON Entities Multi Dimensional
+         * Fetch API URL
