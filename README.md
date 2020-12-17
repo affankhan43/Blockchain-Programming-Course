@@ -17,10 +17,24 @@
 * Read JSON Entries
 * Read JSON Entries Multi Dimensional
 * Fetch API URL
-
-# LABS
 ### 15) Functions (18/Nov/2020)
 ### 16) Functions With Parameters (20/Nov/2020)
 ### 17) Javascript Maps (22/Nov/2020) --> Project Lab
 ### 18) Marksheet Using Maps (23/Nov/2020)
 ### 19) Multidimensional Maps and Math functions (25/Nov/2020)
+### 20) Multidimensional Maps and Math functions (27/Nov/2020)
+### 21) Multidimensional Maps and Math functions (30/Nov/2020)
+### 22) Multidimensional Maps and Math functions (02/Dec/2020)
+### 23) Multidimensional Maps and Math functions (04/Dec/2020)
+### 24) Multidimensional Maps and Math functions (07/Dec/2020)
+### 25) Multidimensional Maps and Math functions (09/Dec/2020)
+### 26) Multidimensional Maps and Math functions (11/Dec/2020)
+### 27) Multidimensional Maps and Math functions (14/Dec/2020)
+### 28) Multidimensional Maps and Math functions (16/Dec/2020)
+
+# LABS
+###  Functions (18/Nov/2020)
+###  Functions With Parameters (20/Nov/2020)
+###  Javascript Maps (22/Nov/2020) --> Project Lab
+###  Marksheet Using Maps (23/Nov/2020)
+###  Multidimensional Maps and Math functions (25/Nov/2020)
