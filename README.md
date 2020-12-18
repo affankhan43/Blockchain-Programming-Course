@@ -19,18 +19,18 @@
 * Fetch API URL
 ### 15) Functions (18/Nov/2020)
 ### 16) Functions With Parameters (20/Nov/2020)
-### 17) Javascript Maps (22/Nov/2020) --> Project Lab
-### 18) Marksheet Using Maps (23/Nov/2020)
-### 19) Multidimensional Maps and Math functions (25/Nov/2020)
-### 20) Date Funtions (27/Nov/2020)
-### 21) Intro to OOPS (30/Nov/2020)
-### 22) Classes (02/Dec/2020)
-### 23) Getter Setter (04/Dec/2020)
-### 24) Inheritance (07/Dec/2020)
-### 25) Super Keyword (09/Dec/2020)
-### 26) Modules (11/Dec/2020) ---> Ends Here
-### 27) Multiple Modules and Objects (14/Dec/2020)
-### 28) HTTP Server (16/Dec/2020)
+### 17) Javascript Maps & Marksheet Using Maps (23/Nov/2020)
+### 18) Multidimensional Maps and Math functions (25/Nov/2020)
+### 19) Date Funtions (27/Nov/2020)
+### 20) Intro to OOPS (30/Nov/2020)
+### 21) Classes (02/Dec/2020)
+### 22) Getter Setter (04/Dec/2020)
+### 23) Inheritance (07/Dec/2020)
+### 24) Super Keyword (09/Dec/2020)
+### 25) Modules (11/Dec/2020) ---> Ends Here
+### 26) Multiple Modules and Objects (14/Dec/2020)
+### 27) HTTP Server (16/Dec/2020)
+### 28) Callback, Error Handling and Networking Essentials (18/Dec/2020)
 
 # LABS
 ###  Functions (18/Nov/2020)
