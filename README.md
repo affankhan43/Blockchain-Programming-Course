@@ -31,6 +31,13 @@
 ### 26) Multiple Modules and Objects (14/Dec/2020)
 ### 27) HTTP Server (16/Dec/2020)
 ### 28) Callback, Error Handling and Networking Essentials (18/Dec/2020)
+### 29) Previous Topics (19/Dec/2020) --> 2 Extras
+### 30) Quiz (20/Dec/2020)
+### 31) HTTP server (FS,URL,Path) (21/Dec/2020)
+### 32) HTTP Server (Postman & API Methods)(23/Dec/2020)
+### 33) Express (26/Dec/2020) 2 Extras
+### 34) Building Blockchain Part-1 (Essentials) (28/Dec/2020)
+### 35) Building Blockchain Part-2 (Envoirment Setup & Data Structure) (30/Dec/2020)
 
 # LABS
 ###  Functions (18/Nov/2020)
