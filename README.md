@@ -38,6 +38,10 @@
 ### 33) Express (26/Dec/2020) 2 Extras
 ### 34) Building Blockchain Part-1 (Essentials) (28/Dec/2020)
 ### 35) Building Blockchain Part-2 (Envoirment Setup & Data Structure) (30/Dec/2020)
+### 36) Building Blockchain Part-3 (Create New Block & Create Transaction) (01/Jan/2021)
+### 37) Building Blockchain Part-4 (Proof Of Work & API Routes) (02/Jan/2021) 2 Extras
+### 38) Building Blockchain Part-5 (Creating Multiple Nodes) (04/Jan/2021)
+### 39) Building Blockchain Part-6 (Synchronizing Nodes) (06/Jan/2021)
 
 # LABS
 ###  Functions (18/Nov/2020)
